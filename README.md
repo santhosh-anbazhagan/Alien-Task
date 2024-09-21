@@ -3,11 +3,14 @@
 Welcome to **AlienTask**, a Kotlin-based task management application that helps you efficiently manage your tasks. Built with modern Android development practices, this app provides a user-friendly interface and robust features for task creation, modification, and deletion.
 
 ## Screenshots
-
-![Screenshot 1](link_to_screenshot1)
-![Screenshot 2](link_to_screenshot2)
-![Screenshot 3](link_to_screenshot3)
-
+<p float="center">
+      <img width="200" src="https://github.com/santhosh-anbazhagan/Alien-Task/blob/master/app/src/main/java/com/alienspace/alientask/samples/AlienTask-1.png">
+   <img width="200" src="https://github.com/santhosh-anbazhagan/Alien-Task/blob/master/app/src/main/java/com/alienspace/alientask/samples/AlienTask-2.png">
+   <img width="200" src="https://github.com/santhosh-anbazhagan/Alien-Task/blob/master/app/src/main/java/com/alienspace/alientask/samples/AlienTask-3.png">
+   <img width="200" src="https://github.com/santhosh-anbazhagan/Alien-Task/blob/master/app/src/main/java/com/alienspace/alientask/samples/AlienTask-4.png">
+   <img width="200" src="https://github.com/santhosh-anbazhagan/Alien-Task/blob/master/app/src/main/java/com/alienspace/alientask/samples/AlienTask-5.png">
+   <img width="200" src="https://github.com/santhosh-anbazhagan/Alien-Task/blob/master/app/src/main/java/com/alienspace/alientask/samples/AlienTask-6.png">
+</p>
 ## Features
 
 - **Task Creation**: Easily create new tasks with details.
@@ -37,11 +40,11 @@ Welcome to **AlienTask**, a Kotlin-based task management application that helps 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/alien-task.git
+   https://github.com/santhosh-anbazhagan/Alien-Task.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd alien-task
+   cd Alien-Task
    ```
 3. Open the project in Android Studio.
 4. Build the project to download dependencies.

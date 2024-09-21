@@ -90,8 +90,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or inquiries, please contact [your email](mailto:your.email@example.com).
-
----
-
-Feel free to replace the placeholders with actual links and your contact information! Let me know if you need any adjustments or additional sections.
+For questions or inquiries, please contact [your email](santhoshanbazhagan1910@gmail.com).
